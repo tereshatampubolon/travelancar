@@ -1,0 +1,11 @@
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\bin\PuyuhAir.dll.config
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\bin\PuyuhAir.dll
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\bin\PuyuhAir.pdb
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\bin\EntityFramework.dll
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\bin\EntityFramework.SqlServer.dll
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\bin\EntityFramework.xml
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\bin\EntityFramework.SqlServer.xml
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\obj\Debug\PuyuhAir.csprojAssemblyReference.cache
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\obj\Debug\PuyuhAir.csproj.CopyComplete
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\obj\Debug\PuyuhAir.dll
+D:\Kuliah\semester4\project\Proyek\PuyuhAir\obj\Debug\PuyuhAir.pdb

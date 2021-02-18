@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\bin\WcfServiceKasurEmpuk.dll.config
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\bin\WcfServiceKasurEmpuk.dll
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\bin\WcfServiceKasurEmpuk.pdb
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\bin\EntityFramework.dll
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\bin\EntityFramework.xml
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\obj\Debug\WcfServiceKasurEmpuk.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\obj\Debug\WcfServiceKasurEmpuk.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\obj\Debug\WcfServiceKasurEmpuk.dll
+C:\Users\Lenovo\source\repos\Travelancarr_Teknet\WcfServiceKasurEmpuk\obj\Debug\WcfServiceKasurEmpuk.pdb
